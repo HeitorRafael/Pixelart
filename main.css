@@ -26,3 +26,14 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+
+/*precisa ser visto** */
+.fotos{
+    height: 100vh;
+}
+
+.footer{
+    font-size: 10px;
+display: flex;
+justify-content: space-between;
+}
